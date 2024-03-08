@@ -9,7 +9,7 @@
 <br>
 
 - 👋 Hi, I’m Noah
-- 💼 I am 21 year old and still in Uni.
+- 💼 I am 22 year old and still in Uni.
 - 🔭 At the moment I am not actively working on any projects
 - 📫 How to reach me **contact@noahltr.de**
 
